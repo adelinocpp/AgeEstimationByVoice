@@ -2,7 +2,7 @@ __pycache__
 .spyproject
 .git
 saves/
-eval_files/*
+eval_files/
 best_model.keras
 feature-csv/
 03_Loss.png
